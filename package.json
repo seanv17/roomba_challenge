@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/seanv17/roomba_challenge/issues"
   },
-  "homepage": "https://github.com/seanv17/roomba_challenge#readme"
+  "homepage": "https://github.com/seanv17/roomba_challenge#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
