@@ -1,0 +1,22 @@
+{
+  "name": "roomba_challenge",
+  "version": "1.0.0",
+  "description": "Roomba Challenge",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanv17/roomba_challenge.git"
+  },
+  "keywords": [
+    "roomba_challenge"
+  ],
+  "author": "Sean Van Ho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanv17/roomba_challenge/issues"
+  },
+  "homepage": "https://github.com/seanv17/roomba_challenge#readme"
+}
